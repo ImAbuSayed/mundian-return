@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mundian-return/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Mundian Return](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mundian-return/) |
+| **Get License** | [Official Music Licensing for Mundian Return](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mundian-return/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7fbaf744898a2069ef51e8100a3b1eb3b080e05dfffca42366ab5058dc4889e0` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
